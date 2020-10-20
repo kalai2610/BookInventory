@@ -15,5 +15,5 @@ DELETE http://localhost:8080/api/deleteBook/1000
 
 Create Token:
 http://localhost:8080/user
-Each HTTP request requires token to access it.
-If token is not generated and not given in Authorization part of request it throws 403 Access denied message.DELETE http://localhost:8080/api/deleteBook/1000
+- Each HTTP request requires token to access it.
+If token is not generated and not given in Authorization part of request it throws 403 Access denied message.
